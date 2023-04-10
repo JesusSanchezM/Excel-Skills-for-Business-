@@ -156,5 +156,10 @@ The structure of each course in the program is as follows:
     - Create interactive dashboard elements
 
 
+## Disclaimer:
+  This project was created to help students who are enrolled in the course. It is not recommended to copy and paste the assessments found in this repository. Please use this tool as a reference for comparison and work diligently to complete the course requirements.
 
+## [Certificates](https://github.com/JesusSanchezM/Excel-Skills-for-Business-/tree/main/Certificates)
+
+  
 
