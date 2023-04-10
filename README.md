@@ -1,7 +1,7 @@
 # Excel Skills for Business
-This repository collect all the challenges from the coursera's course Excel Skills for Business that I made along the program
+This repository collects all of the assessments from Coursera's 'Excel Skills for Business' course that I completed during the program. 
 
-This whole program was categorized in four courses, they are:
+The entire program is divided into four courses:
 
 1. Essencials 
 2. Intermediate I
@@ -10,9 +10,9 @@ This whole program was categorized in four courses, they are:
 
 ![logo1](https://user-images.githubusercontent.com/113047026/230996617-ad6a90fb-0f3c-4a0e-bf00-213bfdde6d70.jpg)
 
-You can enroll in the course in by clicking here [Excel Skills for Business](https://www.coursera.org/specializations/excel) 👻
+You can enroll in the course by clicking here [Excel Skills for Business](https://www.coursera.org/specializations/excel) 👻
 
-The structured of each course in the programm is the follow one:
+The structure of each course in the program is as follows:
 
 ## [1. Essentials:](https://github.com/JesusSanchezM/Excel-Skills-for-Business-/tree/main/Essentials)
   - Taking charge of excel
