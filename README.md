@@ -8,7 +8,7 @@ This whole program was categorized in four courses, they are:
 3. Intermediate II
 4. Advanced
 
-![Whiskers the cat](https://example.com/whiskers.jpg)
+![logo1](https://user-images.githubusercontent.com/113047026/230996617-ad6a90fb-0f3c-4a0e-bf00-213bfdde6d70.jpg)
 
 You can enroll in the course in by clicking here [Excel Skills for Business](https://www.coursera.org/specializations/excel) 👻
 
