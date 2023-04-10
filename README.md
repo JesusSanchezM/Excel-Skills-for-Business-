@@ -8,8 +8,11 @@ This whole program was categorized in four courses, they are:
 3. Intermediate II
 4. Advanced
 
+![Whiskers the cat](https://example.com/whiskers.jpg)
+
+You can enroll in the course in by clicking here [Excel Skills for Business](https://www.coursera.org/specializations/excel) 👻
+
 The structured of each course in the programm is the follow one:
-The goals to accomplish during each course are the follow ones:
 
 ## [1. Essentials:](https://github.com/JesusSanchezM/Excel-Skills-for-Business-/tree/main/Essentials)
   - Taking charge of excel
@@ -152,6 +155,6 @@ The goals to accomplish during each course are the follow ones:
     - Develop dynamic dashboard content
     - Create interactive dashboard elements
 
-[GitHub](https://github.com/)
+
 
 
