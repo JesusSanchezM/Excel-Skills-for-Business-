@@ -11,7 +11,7 @@ This whole program was categorized in four courses, they are:
 The structured of each course in the programm is the follow one:
 The goals to accomplish during each course are the follow ones:
 
-## 1. [Essentials](https://github.com/JesusSanchezM/Excel-Skills-for-Business-/tree/main/Essentials):
+## [1. Essentials:](https://github.com/JesusSanchezM/Excel-Skills-for-Business-/tree/main/Essentials)
   - Taking charge of excel
       - Describe key components of the Excel user interface
       - Operate essential navigational controls
@@ -46,7 +46,7 @@ The goals to accomplish during each course are the follow ones:
       - Modify charts in Excel
 
 
-## 2. [Intermediate I](https://github.com/JesusSanchezM/Excel-Skills-for-Business-/tree/main/Intermediate%20I):
+## [2. Intermediate I:](https://github.com/JesusSanchezM/Excel-Skills-for-Business-/tree/main/Intermediate%20I)
   - Working with multiple worksheets and workbooks
     - Compare the different methods of combining data from multiple sources
     - Use a variety of techniques to perform calculations across workbooks/worksheets
@@ -80,7 +80,7 @@ The goals to accomplish during each course are the follow ones:
     - Create visual dashboards with slicers and Pivot Charts
     - Use Slicers to filter information from multiple sources
 
-## 3. [Intermediate II](https://github.com/JesusSanchezM/Excel-Skills-for-Business-/tree/main/Intermediate%20II):
+## [3. Intermediate II:](https://github.com/JesusSanchezM/Excel-Skills-for-Business-/tree/main/Intermediate%20II)
   - Data Validation
     - Set and configure data validation
     - Work with formulas in data validation
@@ -115,7 +115,7 @@ The goals to accomplish during each course are the follow ones:
     - Edit macros to extend their functionality
     - Manage macros efficiently
 
-## 4. [Advanced](https://github.com/JesusSanchezM/Excel-Skills-for-Business-/tree/main/Advanced):
+## [4. Advanced:](https://github.com/JesusSanchezM/Excel-Skills-for-Business-/tree/main/Advanced)
 
   - Spreadsheet Design and Structure
     - Design flexible and auditable spreadsheets 
